@@ -1,5 +1,7 @@
 # hackeducation
 
+E-Learning app using ReactJS
+
 Create a folder and clone the repo from the github link
 
 USE COMMANDS
