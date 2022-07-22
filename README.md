@@ -1,4 +1,4 @@
-# hackeducation
+# Hackeducation
 
 E-Learning app using ReactJS
 
